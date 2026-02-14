@@ -44,4 +44,4 @@ The source code is currently not public.
 
 ## Discord
 
-👉 [Join server]([https://astracode.dev/download](https://discord.gg/vVAQuJvjXQ))
+👉 [Join server](https://discord.gg/vVAQuJvjXQ)
