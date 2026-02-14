@@ -41,3 +41,7 @@ If you encounter a bug or have a suggestion, open an issue:
 
 This repository hosts the release assets and issue tracking.  
 The source code is currently not public.
+
+## Discord
+
+👉 [Join server]([https://astracode.dev/download](https://discord.gg/vVAQuJvjXQ))
